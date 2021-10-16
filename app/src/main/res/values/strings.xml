@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="person">Емельянов Павел Александрович</string>
+    <string name="group">ПР-315</string>
+    <string name="den">Барчук Даниэль Тимурович</string>
+    <string name="btnOK">OK</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="textview1">TextView</string>
+</resources>
